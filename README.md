@@ -1,11 +1,5 @@
-
-![Logo](https://devdharmesh.github.io/Techly/assets/images/logo.png)
-
-
 # Techly - IT Solutions & Technology
-### Demo
 
-Demo Link : https://devdharmesh.github.io/Techly/
 ## Run Locally
 Requires Node.js to run.
 
